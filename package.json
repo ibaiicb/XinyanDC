@@ -1,0 +1,22 @@
+{
+  "name": "xinyandc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibaiicb/XinyanDC.git"
+  },
+  "author": "ibaiicb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibaiicb/XinyanDC/issues"
+  },
+  "homepage": "https://github.com/ibaiicb/XinyanDC#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
